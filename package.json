@@ -1,0 +1,12 @@
+{
+  "name": "awesome-themes",
+  "version": "1.0.0",
+  "description": "Awesome themes for IntelliJ IDEs",
+  "main": "index.js",
+  "repository": "git@github.com:abel3t/awesome-themes.git",
+  "author": "Abel Tran <abeltran.develop@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app"
+  }
+}
