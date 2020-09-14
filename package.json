@@ -7,6 +7,6 @@
   "author": "Abel Tran <abeltran.develop@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node app"
+    "build": "node app"
   }
 }
